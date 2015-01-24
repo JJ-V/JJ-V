@@ -271,20 +271,20 @@ item.knightlyPick.tooltip=Extra damage to armored targets
 item.knightlyAxe.tooltip=Extra damage to unarmored targets
 item.giantPick.tooltip=Breaks giant blocks
 
-item.tfspawnegg.name=Spawn
+item.tfspawnegg.name=스폰
 
-enchantment.tfFireReact=Fiery Aura
-enchantment.tfChillAura=Chill Aura
+enchantment.tfFireReact=화염 기운
+enchantment.tfChillAura=감기 기운
 
-itemGroup.twilightForest=Twilight Forest
+itemGroup.twilightForest=황혼의 숲
 
 entity.TwilightForest.Wild Boar.name=Wild Boar
 entity.TwilightForest.Bighorn Sheep.name=Bighorn Sheep
 entity.TwilightForest.Wild Deer.name=Wild Deer
 entity.TwilightForest.Redcap.name=Redcap
 entity.TwilightForest.Swarm Spider.name=Swarm Spider
-entity.TwilightForest.Naga.name=Naga
-entity.TwilightForest.Naga Segment.name=Naga Segment
+entity.TwilightForest.Naga.name=나가
+entity.TwilightForest.Naga Segment.name=나가 몸통
 entity.TwilightForest.Skeleton Druid.name=Skeleton Druid
 entity.TwilightForest.Hostile Wolf.name=Hostile Wolf
 entity.TwilightForest.Twilight Wraith.name=Twilight Wraith
@@ -333,9 +333,9 @@ entity.TwilightForest.Stable Ice Core.name=Stable Ice Core
 entity.TwilightForest.Unstable Ice Core.name=Unstable Ice Core
 entity.TwilightForest.Snow Queen.name=Snow Queen
 entity.TwilightForest.Troll.name=Cave Troll
-entity.TwilightForest.Giant Miner.name=Giant Miner
-entity.TwilightForest.Armored Giant.name=Armored Giant
-entity.TwilightForest.Ice Crystal.name=Ice Crystal
+entity.TwilightForest.Giant Miner.name=거인 광부
+entity.TwilightForest.Armored Giant.name=무장 거인
+entity.TwilightForest.Ice Crystal.name=얼음 수정
 
 achievement.twilightPortal=Twilight Portal
 achievement.twilightPortal.desc=Build a portal to the Twilight Forest.
