@@ -278,9 +278,9 @@ enchantment.tfChillAura=감기 기운
 
 itemGroup.twilightForest=황혼의 숲
 
-entity.TwilightForest.Wild Boar.name=Wild Boar
+entity.TwilightForest.Wild Boar.name=멧돼지
 entity.TwilightForest.Bighorn Sheep.name=큰뿔 양
-entity.TwilightForest.Wild Deer.name=Wild Deer
+entity.TwilightForest.Wild Deer.name=사슴
 entity.TwilightForest.Redcap.name=빨간모자
 entity.TwilightForest.Swarm Spider.name=늪지 거미
 entity.TwilightForest.Naga.name=나가
