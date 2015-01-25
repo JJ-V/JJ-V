@@ -1,0 +1,31 @@
+#Blocks/Items
+tile.blackOre.name=Black Diamond Ore
+tile.blackBlock.name=Black Block of Diamond
+
+item.whiteDiamond.name=White Diamond
+item.blackDiamond.name=Black Diamond
+item.blackBoots.name=Black Boots
+item.blackLeggings.name=Black Leggings
+item.blackPlate.name=Black Plate
+item.blackHelmet.name=Black Helmet
+item.blackSword.name=Black Sword
+item.blackHoe.name=Black Hoe
+item.blackAxe.name=Black Axe
+item.blackShovel.name=Black Shovel
+item.blackPick.name=Black Pickaxe
+
+#Instruction Manual
+grim3212.manual.blackdiamond.modinfo=This mod adds in a basic set of tools, armor and a block based around Black Diamond ore.
+grim3212.manual.blackdiamond.subsection.black=Black Diamond
+grim3212.manual.blackdiamond.subsection.black.page.blackore=Black Diamond ore can be found deep in the ground and spawns in a cluster about the size of diamond but far less common.
+grim3212.manual.blackdiamond.subsection.black.page.blackore.title=Ore
+grim3212.manual.blackdiamond.subsection.black.page.cookOre=Once you have found and mined some black diamond to get the actually gem from the ore you need to smelt the ore.
+grim3212.manual.blackdiamond.subsection.black.page.cookOre.title=Smelting
+grim3212.manual.blackdiamond.subsection.black.page.craftblack=If you need some black diamond you can also craft it by combining a diamond and some obsidian. With 9 black diamonds you can also store them into a block of black diamond.
+grim3212.manual.blackdiamond.subsection.black.page.craftblack.title=Crafting
+grim3212.manual.blackdiamond.subsection.tools=Tools
+grim3212.manual.blackdiamond.subsection.tools.page.tools=Using black diamonds you can craft a full tool set, all of which are better then diamond tools.
+grim3212.manual.blackdiamond.subsection.tools.page.tools.title=Crafting
+grim3212.manual.blackdiamond.subsection.armor=Armor
+grim3212.manual.blackdiamond.subsection.armor.page.armor=Along with the full tool set you can also craft a full set of armor from black diamonds.
+grim3212.manual.blackdiamond.subsection.armor.page.armor.title=Crafting
