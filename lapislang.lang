@@ -1,10 +1,10 @@
 #Lang file was made using MCreator
 #Tue Jan 27 13:38:55 KST 2015
-item.Lapisshovel.name=Lapis shovel
-item.Lapisaxe.name=Lapis axe
-item.Lapispickaxe.name=Lapis pickaxe
-item.lapisarmor_boots.name=Lapisarmor Boots
-item.lapisarmor_body.name=Lapisarmor Body
-item.lapisarmor_leggins.name=Lapisarmor Leggins
-item.lapisarmor_head.name=Lapisarmor Helmet
-item.Lapissword.name=Lapis sword
+item.Lapisshovel.name=청금석 삽
+item.Lapisaxe.name=청금석 도끼
+item.Lapispickaxe.name=청금석 곡괭이
+item.lapisarmor_boots.name=청금석 부츠
+item.lapisarmor_body.name=청금석 갑옷
+item.lapisarmor_leggins.name=청금석 레깅스
+item.lapisarmor_head.name=청금석 헬멧
+item.Lapissword.name=청금석 검
