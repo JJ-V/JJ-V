@@ -1,12 +1,12 @@
 #Lang file was made using MCreator
 #Wed Mar 18 21:52:46 KST 2015
-entity.alienwrrior.name=Alien wrrior
-item.Alienaxe.name=Alien axe
-item.Aliengem.name=Alien gem
-item.Alienshovel.name=Alien shovel
-item.Alienpickaxe.name=Alien pickaxe
-entity.aliensorcerer.name=Alien sorcerer
-entity.alienranger.name=Alien ranger
-entity.alienleader.name=Alien leader
-item.Aliensword.name=Alien sword
-item.Alienheart.name=Alien heart
+entity.alienwrrior.name=에일리언 전사
+item.Alienaxe.name=에일리언 도끼
+item.Aliengem.name=에일리언 보석
+item.Alienshovel.name=에일리언 삽
+item.Alienpickaxe.name=에일리언 곡괭이
+entity.aliensorcerer.name=에일리언 마법사
+entity.alienranger.name=에일리언 레인저
+entity.alienleader.name=에일리언 대장
+item.Aliensword.name=에일리언 검
+item.Alienheart.name=에일리언 심장
